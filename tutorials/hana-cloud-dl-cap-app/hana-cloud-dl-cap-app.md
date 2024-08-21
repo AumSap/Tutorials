@@ -128,9 +128,14 @@ To learn about SAP CAP and application development on SAP BTP, see [Introduction
 
     ![cap-project-type](cap-project-type.png)
 
-4. Name your project `My_HDL_CAP_Project` and ensure your project uses the Node.js runtime environment, all available features, and includes basic sample files. Click **Finish** to create your project. 
+4. Name your project `My_HDL_CAP_Project` and ensure your project uses the Node.js runtime environment, and the features listed below. Click **Finish** to create your project. 
 
-    ![project-details](project-details.png)
+    ![project-details](project_details.png)
+
+     ![project-details](p2.png)
+
+      ![project-details](p3.png)
+     
 
 ### Connect to data lake, Relational Engine tables through a CAP application
 
